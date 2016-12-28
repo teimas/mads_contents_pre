@@ -1,4 +1,4 @@
-## Esa es la página de política de `cookies`
+## Esta es la página de política de `cookies`
 ### Información del fichero md en español
 Morbi finibus purus vel diam auctor, vitae posuere massa fermentum. Sed a tellus ipsum. Sed vel sem ac ligula tempor tincidunt. Morbi malesuada dolor magna, ut venenatis lorem luctus eget. Maecenas eget lorem at sapien pharetra porta ut vitae arcu. Integer fringilla ac ligula at tempus. Integer mattis, odio a facilisis tincidunt, magna metus convallis enim, sed vestibulum turpis eros a dolor. Donec ultricies eu felis vitae elementum. In nec massa gravida lacus facilisis tempus. Vestibulum sed tempus tellus, vitae fringilla mauris. Proin volutpat egestas suscipit. Fusce efficitur, est sit amet elementum dictum, eros arcu blandit ligula, vitae porta velit enim vel dui. Nam quis massa lobortis, congue elit nec, semper est. In consectetur lectus nec varius luctus. Sed elementum justo ut tempus interdum. Suspendisse quis risus in metus posuere sodales.
 
