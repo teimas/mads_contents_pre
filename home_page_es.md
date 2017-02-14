@@ -1,7 +1,32 @@
-## Esta es la página principal
-### Información del fichero md en español
-Morbi finibus purus vel diam auctor, vitae posuere massa fermentum. Sed a tellus ipsum. Sed vel sem ac ligula tempor tincidunt. Morbi malesuada dolor magna, ut venenatis lorem luctus eget. Maecenas eget lorem at sapien pharetra porta ut vitae arcu. Integer fringilla ac ligula at tempus. Integer mattis, odio a facilisis tincidunt, magna metus convallis enim, sed vestibulum turpis eros a dolor. Donec ultricies eu felis vitae elementum. In nec massa gravida lacus facilisis tempus. Vestibulum sed tempus tellus, vitae fringilla mauris. Proin volutpat egestas suscipit. Fusce efficitur, est sit amet elementum dictum, eros arcu blandit ligula, vitae porta velit enim vel dui. Nam quis massa lobortis, congue elit nec, semper est. In consectetur lectus nec varius luctus. Sed elementum justo ut tempus interdum. Suspendisse quis risus in metus posuere sodales.
+## Grupo MADS (Modelos y Aplicaciones de Sistemas Distribuidos)
+### Grupo de investigación 
 
-Maecenas id dui nec risus euismod feugiat ut sit amet diam. Sed a efficitur metus. Sed venenatis posuere venenatis. Aliquam erat volutpat. Donec tincidunt massa ut quam faucibus, quis tempus mauris vulputate. Donec commodo posuere risus, lobortis mattis magna mattis ut. Donec sit amet risus massa. Donec porta felis a lorem pharetra, eu lacinia quam congue. Proin lacinia orci diam, non eleifend massa facilisis at. Morbi sem lacus, porttitor imperdiet facilisis quis, vulputate ut quam. Mauris ultrices convallis eros, at gravida ante aliquam a. Curabitur condimentum nulla quis odio cursus fringilla. Nam ipsum lectus, eleifend ac eros ut, suscipit rhoncus dolor. Nullam lacinia neque eu metus finibus venenatis. Nulla varius augue felis, tincidunt blandit ante efficitur nec.
+El Grupo MADS (Modelos y Aplicaciones de Sistemas Distribuidos) es un
+grupo de investigación de la Universidad de A Coruña con presencia en
+la Facultad de Informática y el Centro de Investigación en Tecnologías
+de la Información y Comunicaciones (CITIC), uno de los tres centros de
+investigación de esta universidad.
 
-Vivamus nec bibendum nunc. Quisque non risus libero. Aenean id augue id erat vestibulum imperdiet. Curabitur at leo accumsan, hendrerit arcu non, dapibus magna. Mauris ac erat nisl. Donec blandit felis vitae dui egestas dignissim. Vivamus commodo ultricies turpis, vel sodales leo aliquam in. Fusce commodo gravida neque ultricies pretium. In porta fringilla nisi, in imperdiet turpis aliquet at. Phasellus consequat orci at ante dignissim, vitae faucibus mauris pretium. Vivamus tristique dui eu eros pharetra molestie. Morbi sit amet nibh blandit, congue erat in, lobortis tortor. Vivamus consequat cursus elit, eu tempor dui vestibulum eu.
+El trabajo del grupo MADS se articula hoy en día en torno a dos líneas
+principales: los sistemas de control concurrentes y distribuidos, y la
+verificación avanzada de software. La primera línea tiene su exponente
+de éxito más destacado en la construcción de servidores multimedia
+fiables y altamente escalables, siendo dos de los resultados de
+investigación de mayor éxito del grupo, la arquitectura de vídeo bajo
+demanda VoDKA, origen de la spin-off LambdaStream S.L., y el servidor
+de vídeo sintético Synthetrick, origen de la spin-off de base
+tecnológica Syntheractive S.L.
+
+En cuanto a la segunda línea, centrada en el desarrollo y aplicación
+de técnicas avanzadas de prueba a todo tipo de software, tiene como
+elementos más reseñables la participación del grupo en dos proyectos
+europeos FP7: ProTest (Property-based testing in Erlang, 2007-2010,
+STREP 215868) y Prowess (Property-based testing of Web Services,
+2012-2015, ICT 317820), y varios nacionales, entre ellos VRDADER
+(Verificación, rendimiento y disponibilidad de aplicaciones
+distribuidas en entornos reales, 2002-2005, MINCyT TIC2002-02859),
+FARMHANDS (Recursos funcionales para la construcción de sistemas
+complejos distribuidos de alta disponibilidad, 2005-2008, MEC
+TIN2005-08986) y AMBITIIONS (Iniciativa para la implementación e
+integración de sistemas correctos y eficientes no triviales basado en
+modelos, 2011-2013, MICIN TIN2010-20959).
